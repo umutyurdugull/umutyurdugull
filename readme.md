@@ -13,7 +13,7 @@
 
 
 ###
-## 🏆 Sertifikalarım
+## 🏆 My Certificates
 
 - [Temel Linux 101](https://gelecegiyazanlar.turkcell.com.tr/sertifika/1e1ebcddb33c4c51ac1ad53e86672d3d)  
 - [Asp.Net Core MVC 101](https://gelecegiyazanlar.turkcell.com.tr/sertifika/4b99a63bfe9e4204942588598f209f4d)  
