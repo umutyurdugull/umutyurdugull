@@ -20,3 +20,7 @@
 - [Java 101](https://gelecegiyazanlar.turkcell.com.tr/sertifika/283d6e6c225e491b8d751eae02db8c48)  
 - [C# ile Algoritma ve Programlama 201](https://gelecegiyazanlar.turkcell.com.tr/sertifika/e91501f37ba0434c8b043359930b16e3)  
 - [C# Form ile Görsel ve Nesne Tabanlı Programlama 301](https://gelecegiyazanlar.turkcell.com.tr/sertifika/f4222a69682b4ae2843edb7059661fd5)  
+- [CS107: C++ Programming](https://learn.saylor.org/admin/tool/certificate/index.php?code=1482217824UY)
+- [Software Engineer Certificate](https://www.hackerrank.com/certificates/7547004c9232)
+- [Problem Solving Certificate](https://www.hackerrank.com/certificates/a8c0417cd46a)
+- [C# Certificate](https://www.hackerrank.com/certificates/bab79d5d7a4b)
