@@ -13,7 +13,9 @@
 ###
 ## About Me
 Hello! I am a Computer Engineering student focused on modern web technologies and software architecture.
+
 Beyond my academic studies, I am actively developing my skills in C++, C#, and the .NET ecosystem, with a specific focus on Web Development. I am passionate about turning theoretical knowledge into practice, working on API integrations in backend processes, and sharpening my algorithmic skills with C++.
+
 I thrive on solving complex problems with an analytical approach and enjoy quickly learning new technologies to integrate them into my projects.
 
 
