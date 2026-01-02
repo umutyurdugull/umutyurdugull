@@ -8,7 +8,15 @@
   <img width="20" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
+
+  <br/><br/>
+  
+  <i>
+    Sometimes it takes a lot to make a sacrifice<br/>
+    But in the end, it might enhance your life<br/>
+    Just look down and dive
+  </i>
+  </div>
 
 ###
 ## About Me
