@@ -31,5 +31,4 @@ I thrive on solving complex problems with an analytical approach and enjoy quick
 - [Software Engineer Certificate](https://www.hackerrank.com/certificates/7547004c9232)
 - [Problem Solving Certificate](https://www.hackerrank.com/certificates/a8c0417cd46a)
 - [C# Certificate](https://www.hackerrank.com/certificates/bab79d5d7a4b)
-- [CS250: Python for Data Science](https://learn.saylor.org/pluginfile.php/1/tool_certificate/issues/1767089228/8978052178UY.pdf)
 - [IBM Z Xplore - Concepts](https://www.credly.com/badges/7f8f8134-f53d-4870-8e4c-df96a00e3d5e/linked_in_profile)
