@@ -28,15 +28,23 @@ I thrive on solving complex problems with an analytical approach and enjoy quick
 
 
 ###
-## 🏆 My Certificates
+## 🏆 Certificates
 
-- [Temel Linux 101](https://gelecegiyazanlar.turkcell.com.tr/sertifika/1e1ebcddb33c4c51ac1ad53e86672d3d)  
-- [Asp.Net Core MVC 101](https://gelecegiyazanlar.turkcell.com.tr/sertifika/4b99a63bfe9e4204942588598f209f4d)  
-- [Java 101](https://gelecegiyazanlar.turkcell.com.tr/sertifika/283d6e6c225e491b8d751eae02db8c48)  
-- [C# ile Algoritma ve Programlama 201](https://gelecegiyazanlar.turkcell.com.tr/sertifika/e91501f37ba0434c8b043359930b16e3)  
-- [C# Form ile Görsel ve Nesne Tabanlı Programlama 301](https://gelecegiyazanlar.turkcell.com.tr/sertifika/f4222a69682b4ae2843edb7059661fd5)  
-- [CS107: C++ Programming](https://learn.saylor.org/admin/tool/certificate/index.php?code=1482217824UY)
-- [Software Engineer Certificate](https://www.hackerrank.com/certificates/7547004c9232)
-- [Problem Solving Certificate](https://www.hackerrank.com/certificates/a8c0417cd46a)
-- [C# Certificate](https://www.hackerrank.com/certificates/bab79d5d7a4b)
-- [IBM Z Xplore - Concepts](https://www.credly.com/badges/7f8f8134-f53d-4870-8e4c-df96a00e3d5e/linked_in_profile)
+| Platform | Certificate | Key Skills |
+| :--- | :--- | :--- |
+| **HackerRank** | [Software Engineer Certificate](https://www.hackerrank.com/certificates/7547004c9232) | *System Design, Coding Standards* |
+| **HackerRank** | [Problem Solving Certificate](https://www.hackerrank.com/certificates/a8c0417cd46a) | *Algorithms, Data Structures* |
+| **IBM** | [IBM Z Xplore - Concepts](https://www.credly.com/badges/7f8f8134-f53d-4870-8e4c-df96a00e3d5e/linked_in_profile) | *Enterprise Computing, Mainframe* |
+| **Saylor** | [CS107: C++ Programming](https://learn.saylor.org/admin/tool/certificate/index.php?code=1482217824UY) | *C++, Memory Management* |
+| **Turkcell** | [Asp.Net Core MVC 101](https://gelecegiyazanlar.turkcell.com.tr/sertifika/4b99a63bfe9e4204942588598f209f4d) | *Web Development, MVC Pattern* |
+| **Turkcell** | [C# Algoritma & Programlama 201](https://gelecegiyazanlar.turkcell.com.tr/sertifika/e91501f37ba0434c8b043359930b16e3) | *C# Syntax, Logic* |
+
+<details>
+<summary><b>View Other Certificates (Linux, Java, WinForms)</b></summary>
+<br>
+
+- [Temel Linux 101](https://gelecegiyazanlar.turkcell.com.tr/sertifika/1e1ebcddb33c4c51ac1ad53e86672d3d)
+- [Java 101](https://gelecegiyazanlar.turkcell.com.tr/sertifika/283d6e6c225e491b8d751eae02db8c48)
+- [C# Form ile Görsel Programlama 301](https://gelecegiyazanlar.turkcell.com.tr/sertifika/f4222a69682b4ae2843edb7059661fd5)
+
+</details>
