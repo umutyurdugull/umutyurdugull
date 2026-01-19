@@ -40,7 +40,7 @@ I thrive on solving complex problems with an analytical approach and enjoy quick
 | **Turkcell** | [C# Algoritma & Programlama 201](https://gelecegiyazanlar.turkcell.com.tr/sertifika/e91501f37ba0434c8b043359930b16e3) | *C# Syntax, Logic* |
 
 <details>
-<summary><b>View Other Certificates (Linux, Java, WinForms)</b></summary>
+<summary><b>View Other Certificates </b></summary>
 <br>
 
 - [Temel Linux 101](https://gelecegiyazanlar.turkcell.com.tr/sertifika/1e1ebcddb33c4c51ac1ad53e86672d3d)
