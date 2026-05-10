@@ -12,6 +12,7 @@
 ##  About Me
 Hello! I am a Computer Engineering student focused on modern web technologies and software architecture.
 
-Beyond my academic studies, I am actively developing my skills in C# and the .NET ecosystem, with a specific focus on Web Development. I am passionate about turning theoretical knowledge into practice, working on API integrations in backend processes.
+Beyond my academic studies, I am actively developing my skills in C# and the .NET ecosystem, with a specific focus on Web Development. I am passionate about turning theoretical knowledge into practice, working on API integrations in backend processes. Currently I'm learning Dart and Flutter for mobile development. Also I want to learn React.js and bootstrap technologies.
+
 
 I thrive on solving complex problems with an analytical approach and enjoy quickly learning new technologies to integrate them into my projects.
